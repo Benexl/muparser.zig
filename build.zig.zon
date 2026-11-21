@@ -1,0 +1,13 @@
+.{
+    .name = .muparser_zig,
+    .version = "0.0.1",
+    .dependencies = .{
+        .muparser = .{
+            .url = "https://github.com/beltoforion/muparser/archive/refs/heads/master.tar.gz",
+            .hash = "N-V-__8AAGL0CACRg88QCOyE1FIFZL6vyEcHgH6Npwpi17lX",
+        },
+    },
+    .minimum_zig_version = "0.17.1",
+    .paths = .{""},
+    .fingerprint = 0xba33e23db112e0fe,
+}
